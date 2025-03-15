@@ -1,0 +1,41 @@
+
+
+<!doctype html>
+<html>
+	<head>
+	</head>
+	<body>
+	</body>
+</html>
+
+Image CDN Contant Delevery network
+Img
+
+
+
+
+code comment
+html  hint, instraction...
+css
+js
+jq
+php
+আমাদের আন্দোলনের শক্তি
+I’m in the process of honing my skills and striving to become a professional Full Stack Web Developer. While I may be in the early stages, my dedication to learning and improving every day is unwavering. I hope you enjoy exploring my work and witnessing my journey!
+As I continuously hone my skills and work towards becoming a professional Full Stack Web Developer, I am also actively seeking remote opportunities to expand my expertise. Though I am in the early stages of my journey, my commitment to learning and improving every day is unwavering. I invite you to explore my work, follow my progress, and join me on this exciting path.
+I am also actively seeking freelancing and remote opportunities to expand my expertise.
+
+Name: Shahid Zaman<br>
+			<br>
+			Address: Fatema Place,Mukundopotty Main Road, Jharjhoriatola, Kashipur, Barishal, Bangladesh. <br>
+			<br>
+			Sex: Male<br>
+			<br>
+			Cell: 01756966766, 01674468565  <br>
+			<br>
+			Blood: AB(+ve)<br>
+			<br>
+			Marital Status: Married> 
+
+			code comment
+			html hint, intraction
